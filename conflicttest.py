@@ -1,2 +1,2 @@
-print("Hi putin!")
-print("Привет Бедон!")
+print("HI PUTIN!")
+print("ПРИВEТ БЕДОН!")
