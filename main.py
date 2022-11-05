@@ -1,3 +1,4 @@
+#lol+kek
 def my_superfanction():
     print("вообще то 101112")
 def main():
